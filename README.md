@@ -2,9 +2,9 @@
 🔭 I’m currently working on improving problem-solving skills through consistent coding practice<br>👯 I’m looking to collaborate on beginner-friendly Python projects<br>🌱 I’m currently learning core programming concepts in Python and C<br>💬 Ask me about Python, arrays, and debugging logic<br>⚡ Fun fact: I enjoy singing and learning guitar alongside coding<br>
 
 
-## 🌐 Socials: 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ayan_pratap_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-pratap-sonker-7944a6295/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_ayan_pratap_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/ayan-pratap-sonker-7944a6295/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ayanpratap5@gmail.com)
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
