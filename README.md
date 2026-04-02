@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving problem-solving skills through consistent coding practice<br>👯 I’m looking to collaborate on beginner-friendly Python projects<br>🌱 I’m currently learning core programming concepts in Python and C<br>💬 Ask me about Python, arrays, and debugging logic<br>⚡ Fun fact: I enjoy singing and learning guitar alongside coding<br>
+🔭 I’m currently working on improving problem-solving skills through consistent coding practice<br>👯 I’m looking to collaborate on beginner-friendly Python projects<br>🌱 I’m currently learning core programming concepts in Python and C<br>💬 Ask me about Python, arrays, and debugging logic<br>⚡ Fun fact:I enjoy singing and learning guitar alongside coding<br>
 
 
 ## 🌐 Socials:
