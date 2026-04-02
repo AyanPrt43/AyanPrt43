@@ -1,7 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on improving problem-solving skills through consistent coding practice<br>👯 I’m looking to collaborate on beginner-friendly Python projects<br>🌱 I’m currently learning core programming concepts in Python and C<br>💬 Ask me about Python, arrays, and debugging logic<br>⚡ Fun fact:I enjoy singing and learning guitar alongside coding<br>
 ### 💼 Portfolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanprt43.github.io/My_Portfolio/)
+<a href="https://ayanprt43.github.io/My_Portfolio/">
+  <img src="https://cdn-icons-png.flaticon.com/512/10856/10856864.png" width="40"/>
+  <b> Visit My Portfolio</b>
+</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_ayan_pratap_/)
