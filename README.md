@@ -24,7 +24,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · CSS · HTML</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · MERN · JavaScript · CSS · HTML</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>11 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>190 contributions · 23 active days</p></td>
 </tr>
