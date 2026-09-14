@@ -27,7 +27,7 @@
 <tr>
 <td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · CSS · HTML</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>11 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>189 contributions · 23 active days</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>190 contributions · 23 active days</p></td>
 </tr>
 </table>
 
@@ -39,7 +39,7 @@
 <tr>
 <td width="25%" align="center"><strong>11</strong><br /><sub>Repositories</sub></td>
 <td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>189</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>190</strong><br /><sub>Contributions</sub></td>
 <td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
 </tr>
 </table>
@@ -57,24 +57,24 @@
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&repos=ayanprt43%2FTaskFlow%2Cayanprt43%2FCurrency_Convertor%2Cayanprt43%2Fe-commerce-website%2Cayanprt43%2FExpense-Tracker&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&repos=ayanprt43%2FTaskFlow%2Cayanprt43%2FCurrency_Convertor%2Cayanprt43%2Fe-commerce-website%2Cayanprt43%2FExpense-Tracker&v=recruiter-projects-1&mode=dark" width="100%" alt="Ayan Pratap Sonker selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&repos=ayanprt43%2FTask-Line%2Cayanprt43%2FTaskFlow%2Cayanprt43%2FCurrency_Convertor%2Cayanprt43%2Fe-commerce-website&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&repos=ayanprt43%2FTask-Line%2Cayanprt43%2FTaskFlow%2Cayanprt43%2FCurrency_Convertor%2Cayanprt43%2Fe-commerce-website&v=recruiter-projects-1&mode=dark" width="100%" alt="Ayan Pratap Sonker selected projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
-<h3><a href="https://github.com/AyanPrt43/TaskFlow">TaskFlow</a></h3>
-<p>A full-stack project and task management platform built with the MERN stack, featuring user authentication, project management, task tracking, and RES</p>
+<h3><a href="https://github.com/AyanPrt43/Task-Line">Task-Line</a></h3>
+<p>TaskLine — A modern, full-stack task management application built with React, Node.js, Express, MongoDB, and Firebase Authentication, featuring task o</p>
 <p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/AyanPrt43/TaskFlow">Read the repository →</a></p>
+<p><a href="https://github.com/AyanPrt43/Task-Line">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
 <table width="100%">
 <tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/AyanPrt43/TaskFlow">TaskFlow</a></h3><p>A full-stack project and task management platform built with the MERN stack, featuring user authentication, project management, task tracking, and RES</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
 <td width="33%" valign="top"><h3><a href="https://github.com/AyanPrt43/Currency_Convertor">Currency_Convertor</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
 <td width="33%" valign="top"><h3><a href="https://github.com/AyanPrt43/e-commerce-website">e-commerce-website</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/AyanPrt43/Expense-Tracker">Expense-Tracker</a></h3><p>A modern and responsive expense tracking web app for managing personal finances, monitoring spending, and keeping track of income and expenses with a</p><p><sub>CSS · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
