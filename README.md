@@ -7,7 +7,6 @@
 <h1>Ayan Pratap Sonker</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>Full-Stack Developer crafting modern web experiences with the MERN stack. Turning ideas into products, challenges into solutions, and code into experiences.</p>
-<p><strong>● Think -> BuildSh ->ip. Repeat. 🚀</strong></p>
 <p><strong>● Think -> Build -> Ship -> Repeat. 🚀</strong></p>
 <p><a href="https://github.com/ayanprt43">GitHub</a></p>
 </td>
