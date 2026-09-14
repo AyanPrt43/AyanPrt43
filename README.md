@@ -1,22 +1,116 @@
-# 💫 About Me:
-🔭 I’m currently working on improving problem-solving skills through consistent coding practice<br>👯 I’m looking to collaborate on beginner-friendly Python projects<br>🌱 I’m currently learning core programming concepts in Python and C<br>💬 Ask me about Python, arrays, and debugging logic<br>⚡ Fun fact:I enjoy singing and learning guitar alongside coding<br>
-### 💼 Portfolio:
-<a href="https://ayanprt43.github.io/My_Portfolio/">
-  <img src="https://cdn-icons-png.flaticon.com/512/10856/10856864.png" width="120"/>
-</a>
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_ayan_pratap_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin-in&logoColor=white)](www.linkedin.com/in/ayan-pratap)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ayanpratap5@gmail.com)
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AyanPrt43&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AyanPrt43&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanPrt43&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · ayanprt43</sub></p>
+<h1>Ayan Pratap Sonker</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Highly motivated and detail Web Developer and Data Scientist with a solid foundation in computer science principles gained during my Bachelor's degree.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Building at IT Company</sub></p>
+<p><a href="https://github.com/ayanprt43">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Ayan Pratap Sonker animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=AyanPrt43&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2>What teams can evaluate quickly</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · CSS · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>11 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>189 contributions · 23 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Highly motivated and detail Web Developer and Data Scientist with a solid foundation in computer science principles gained during my Bachelor's degree.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>11</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>189</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Ayan Pratap Sonker GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&repos=ayanprt43%2FTaskFlow%2Cayanprt43%2FCurrency_Convertor%2Cayanprt43%2Fe-commerce-website%2Cayanprt43%2FExpense-Tracker&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&repos=ayanprt43%2FTaskFlow%2Cayanprt43%2FCurrency_Convertor%2Cayanprt43%2Fe-commerce-website%2Cayanprt43%2FExpense-Tracker&v=recruiter-projects-1&mode=dark" width="100%" alt="Ayan Pratap Sonker selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/AyanPrt43/TaskFlow">TaskFlow</a></h3>
+<p>A full-stack project and task management platform built with the MERN stack, featuring user authentication, project management, task tracking, and RES</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/AyanPrt43/TaskFlow">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/AyanPrt43/Currency_Convertor">Currency_Convertor</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AyanPrt43/e-commerce-website">e-commerce-website</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AyanPrt43/Expense-Tracker">Expense-Tracker</a></h3><p>A modern and responsive expense tracking web app for managing personal finances, monitoring spending, and keeping track of income and expenses with a</p><p><sub>CSS · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Ayan Pratap Sonker technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center"><strong>JavaScript</strong><br /><sub>65% of public code</sub></td>
+<td width="33%" align="center"><strong>CSS</strong><br /><sub>18% of public code</sub></td>
+<td width="33%" align="center"><strong>HTML</strong><br /><sub>17% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ayanprt43&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219635816%3Fu%3Dd22fed4dbea883b972bfee36ef5c22513096745f%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Ayan Pratap Sonker contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/ayanprt43">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Ayan Pratap Sonker · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
