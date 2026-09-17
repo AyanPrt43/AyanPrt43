@@ -327,7 +327,7 @@ development and user-friendly shopping experiences.
 
 <hr />
 
-<table width="100%">
+<table align="centre" width="100%">
 <tr>
 
 <td width="62%" valign="middle">
