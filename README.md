@@ -350,14 +350,3 @@ GitHub
 
 </tr>
 </table>
-
-<p align="center">
-
-<sub>
-Ayan Pratap Sonker · recruiter-ready profile generated with
-<a href="https://www.gitskins.com/readme-generator">
-GitSkins
-</a>
-</sub>
-
-</p>
